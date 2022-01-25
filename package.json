@@ -1,0 +1,13 @@
+{
+  "name": "tg-pinned-messages-summary",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Shawn Price <shawn@numbco.art",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "14.3.0",
+    "node-telegram-bot-api": "0.56.0",
+    "telegram": "2.4.3"
+  }
+}
