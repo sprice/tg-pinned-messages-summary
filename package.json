@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Shawn Price <shawn@numbco.art",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "dotenv": "14.3.0",
     "node-telegram-bot-api": "0.56.0",
